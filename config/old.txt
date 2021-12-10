@@ -1,0 +1,24 @@
+
+     #SQUARES 1080*720
+    parkings[0].addSlot(ParkingSlot(20, 465, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(120, 470, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(215, 475, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(310, 480, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(430, 480, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(530, 480, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(620, 475, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(715, 475, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(805, 470, 140, 140, 0))
+    parkings[0].addSlot(ParkingSlot(895, 465, 140, 140, 1))
+   
+    #BIG RECTANGLES 1080*720
+    parkings[0].addSlot(ParkingSlot(40, 415, 110, 205, 0))
+    parkings[0].addSlot(ParkingSlot(120, 430, 110, 195, 0))
+    parkings[0].addSlot(ParkingSlot(220, 430, 110, 195, 0))
+    parkings[0].addSlot(ParkingSlot(325, 435, 100, 190, 0))
+    parkings[0].addSlot(ParkingSlot(425, 425, 105, 200, 0))
+    parkings[0].addSlot(ParkingSlot(525, 435, 110, 190, 0))
+    parkings[0].addSlot(ParkingSlot(620, 435, 105, 190, 0))
+    parkings[0].addSlot(ParkingSlot(710, 440, 105, 180, 0))
+    parkings[0].addSlot(ParkingSlot(805, 425, 110, 180, 0))
+    parkings[0].addSlot(ParkingSlot(910, 425, 90, 185, 1))
